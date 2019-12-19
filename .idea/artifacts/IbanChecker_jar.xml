@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IbanChecker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IbanChecker_jar</output-path>
+    <root id="archive" name="IbanChecker.jar">
+      <element id="module-output" name="IbanChecker" />
+    </root>
+  </artifact>
+</component>
